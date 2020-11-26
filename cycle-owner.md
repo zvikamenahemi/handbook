@@ -22,7 +22,7 @@ The cycle owner's responsibility is to manifest these meetings.
 
 #### Honeybadgers
 Honeybadger is our run time error-monitoring system. Every new error is reported to the #alerts channel on Slack.
-The cycle owner's responsibility is to tirage the errors. 
+The cycle owner's responsibility is to triage the errors. 
 **How to triage:**
 1. New alert on Slack.
 2. Acknowledge you are on it through the channel (open a thread for the alert's message).
