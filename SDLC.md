@@ -29,7 +29,7 @@ Watch [this video](https://www.youtube.com/watch?v=ATpJBeuknaQ) (until 16:30) to
      - At the beginning of the phase technical debt is prioritized
      - This phase is all about cleaning after ourselves (fixing technical debt) and handling unexpected bugs
 ## Milestones
-![wireframe](https://images.folloze.com/image/upload/v1617476412/milestones_ccgrs6.png)
+![wireframe](https://images.folloze.com/image/upload/v1617801308/milestones_ybsyfi.png)
 
 1. **Concept Definitions**
    - *Owner* - PM 
