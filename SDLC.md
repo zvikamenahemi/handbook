@@ -83,7 +83,9 @@ Watch [this video](https://www.youtube.com/watch?v=ATpJBeuknaQ) (until 16:30) to
       - Scope is clear
       - Feature is ready to be tested 
 7. **Release** :dancer:
-8. **Post Release**
+   - *Owner* - Developer
+   - Every release should have a **Release Plan** and a **Rollback Plan** - both approved by the tech manager.
+9. **Post Release**
    - *Owner* - PM
    - *Timing* - after release
    - *Goal & Outcomes*
