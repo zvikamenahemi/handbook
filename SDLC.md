@@ -61,7 +61,7 @@ Watch [this video](https://www.youtube.com/watch?v=ATpJBeuknaQ) (until 16:30) to
    - *Participants* - QA, PM, UX, developer and tech manager
    - *Timing* - at ~25% of the feature planned time 
    - *Goal & Outcomes*
-     - Reviewthe test plan
+     - Review the test plan
      - Make sure all requirements and use cases are covered
      - Make sure expected behaviour is clear
      - Map gaps in the test plan needed to be fixeed
