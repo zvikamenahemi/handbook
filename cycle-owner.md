@@ -13,15 +13,11 @@ As the name suggests, the cycle owner duty is for the cycle's length - 2 weeks.
 #### The Support + Development board
 The board contains tasks (requests from Support and CSMs) that the cycle owner needs to handle.
 Managing the board is done by the support and product teams.
-The list should contain only unexpected items. Meaning there shouldn't be feature requests which the team could plan ahead of time.
-The list is ordered by priority, and you should handle it in that order. Some of the cards are also priritized by colors in order to indicate priority.
+The board should contain only unexpected requests. Meaning there shouldn't be feature requests which the team could plan ahead of time.
+The list is ordered by priority, and you should handle it in that order. Some of the cards are labeled by colors in order to indicate priority.
 
 #### Daily Updates
-In order to prevent communication gaps with Support, Product and CSMs the Cycle Owner should update in the end of every work day the tasks he has been working on and their current status.
-
-#### Standups
-There are three daily standups ([see our rituals](https://github.com/zvikamenahemi/handbook/blob/main/our-rituals.md)).
-The cycle owner's responsibility is to manifest these meetings.
+In order to prevent communication gaps with Support, Product and CSMs the Cycle Owner should update in the end of every work day the tasks he has been working on and their current status. This should be done in the #daily-updates Slack channel.
 
 #### Honeybadgers
 Honeybadger is our run time error-monitoring system. Every new error is reported to the #alerts channel on Slack.
